@@ -5,6 +5,8 @@ What is UI Design? The 'UI' design stands for “user interface”. The user int
        Now here I made my 'Ul-UX design' for PC and PHONE.
        Tool used- Figma
        Link is given below. You can check-out.
+       ![image](https://user-images.githubusercontent.com/91480902/159291411-ad6ebf7d-f228-4fd9-836b-3a9effee7d49.png)
+
 
 
 https://www.figma.com/file/zZJGOWmhRIUXNYGdS2dirX/Manish-Ul%2FUX-Design?node-id=0%3A1
